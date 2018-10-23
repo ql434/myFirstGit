@@ -1,4 +1,5 @@
-myFirstGit
+/bin/bash: qq: command not found
 ==========
 
-test
+test 2018
+
